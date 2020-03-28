@@ -1,0 +1,3 @@
+Trabajador puede tener mas de un cargo
+Los horarios tendran que ser compartidos por las 4 ocupaciones
+Ocupaciones(Peluqueria, Estetica, Maquillaje, Manicura y Pedicura)
