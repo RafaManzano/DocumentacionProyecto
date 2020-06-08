@@ -1,6 +1,0 @@
-Trabajador puede tener mas de un cargo
-Los horarios tendran que ser compartidos por las 4 ocupaciones
-Ocupaciones(Peluqueria, Estetica, Maquillaje, Manicura y Pedicura)
-La clase TrabajadoresTrabajos de la BBDD no esta incluida en el proyecto (Puede que cuando la use la ponga como model)
-Mantener la sesion iniciada una vez que esta que ha escrito en el movil (Realizado)
-Revisar que cuando se vaya a realizar un ingreso valide por correo electronico o tambien con google
